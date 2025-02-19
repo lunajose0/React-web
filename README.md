@@ -30,7 +30,7 @@ Luego, abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 - `npm run eject` → Extrae la configuración predeterminada de Create React App. (⚠️ Acción irreversible)  
 
 ## 📸 Capturas  
-  ![Captura de pantalla](/pantalla/web-React-1.png)
+  ![Captura de pantalla](public/pantalla/web-React-1.png)
 
 ## 🌐 Tecnologías Utilizadas  
 - React  
