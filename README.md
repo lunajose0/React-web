@@ -12,7 +12,7 @@ Este es un proyecto desarrollado con **React** utilizando `Create React App`. In
 Para clonar y ejecutar este proyecto en tu máquina local:  
 ```bash  
 git clone https://github.com/lunajose0/React-web.git  
-cd tu-repositorio  
+cd React-web  
 npm install  
 ```
 
